@@ -1,3 +1,8 @@
+# Project Schedule
+- [x] Choose a C++ software library named Stasm
+- [ ] Install OpenCV on Mac/Windows
+
+
 # For Reference
 1. [人脸特征点定位——ASM和AAM算法](http://blog.sina.com.cn/s/blog_6138c5b80101k8w3.html)    
 
@@ -11,7 +16,11 @@
 
 6. [人脸识别之人脸对齐（二）--ASM算法](http://blog.csdn.net/app_12062011/article/details/52572062)        
     
-7. Paper: [An Introduction to Active Shape Models](./asm_overview.pdf)    
+7. Paper: [An Introduction to Active Shape Models](./asm_overview.pdf)      
+
+8. [Active Shape Models with Stasm](http://www.milbo.users.sonic.net/stasm/index.html)  
+
+
 
 
 
