@@ -10,6 +10,8 @@
 [机器学习----人脸对齐的算法-ASM.AAM..CLM.SDM](https://www.cnblogs.com/Anita9002/p/7094535.html)      
 
 [人脸识别之人脸对齐（二）--ASM算法](http://blog.csdn.net/app_12062011/article/details/52572062)      
+[An Introduction to Active Shape Models](./asm_overview.pdf)    
+
 
 
 
