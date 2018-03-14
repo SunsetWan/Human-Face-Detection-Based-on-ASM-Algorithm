@@ -21,6 +21,7 @@
 7. Paper: [An Introduction to Active Shape Models](./asm_overview.pdf)      
 
 8. [Active Shape Models with Stasm](http://www.milbo.users.sonic.net/stasm/index.html)  
+9. [Setting up and using Python3, Pip3, Virtualenv (for Python3) and Virtualenvwrapper (for Python3)](https://gist.github.com/IamAdiSri/a379c36b70044725a85a1216e7ee9a46)
 
 
 
