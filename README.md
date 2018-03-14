@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Author-Jiangshu%20Wong-blue.svg)
 # Project Schedule
 - [x] Choose a C++ software library named Stasm
-- [ ] Install OpenCV on Mac/Windows
+- [x] Install OpenCV on Mac/Windows
 
 
 # For Reference
