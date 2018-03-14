@@ -3,6 +3,7 @@
 # Project Schedule
 - [x] Choose a C++ software library named Stasm
 - [x] Install OpenCV on Mac/Windows
+- [ ] Undefined
 
 
 # For Reference
