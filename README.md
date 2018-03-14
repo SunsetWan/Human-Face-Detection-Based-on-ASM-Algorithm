@@ -23,6 +23,7 @@
 8. [Active Shape Models with Stasm](http://www.milbo.users.sonic.net/stasm/index.html)  
 9. [Setting up and using Python3, Pip3, Virtualenv (for Python3) and Virtualenvwrapper (for Python3)](https://gist.github.com/IamAdiSri/a379c36b70044725a85a1216e7ee9a46)
 10. [Install OpenCV 3 on macOS with Homebrew (the easy way)](https://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/)
+11. [Install OpenCV-Python in Windows](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html)
 
 
 
