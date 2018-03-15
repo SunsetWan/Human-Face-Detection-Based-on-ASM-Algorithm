@@ -2,8 +2,9 @@
 ![](https://img.shields.io/badge/Author-Jiangshu%20Wong-blue.svg)
 # Project Schedule
 - [x] Choose a C++ software library named Stasm
-- [x] Install OpenCV on Mac/Windows
-- [ ] Undefined
+- [x] Install OpenCV on Mac
+- [ ] Install OpenCV on Windows
+- [ ] Detecting cats in images with OpenCV
 
 
 # For Reference
@@ -25,6 +26,7 @@
 9. [Setting up and using Python3, Pip3, Virtualenv (for Python3) and Virtualenvwrapper (for Python3)](https://gist.github.com/IamAdiSri/a379c36b70044725a85a1216e7ee9a46)
 10. [Install OpenCV 3 on macOS with Homebrew (the easy way)](https://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/)
 11. [Install OpenCV-Python in Windows](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html)
+12. [Detecting cats in images with OpenCV](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/)
 
 
 
