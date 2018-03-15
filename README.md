@@ -4,7 +4,7 @@
 - [x] Choose a C++ software library named Stasm
 - [x] Install OpenCV on Mac
 - [ ] Install OpenCV on Windows
-- [ ] Detecting cats in images with OpenCV
+- [ ] Detecting cats in images with OpenCV (Link 12)
 
 
 # For Reference
