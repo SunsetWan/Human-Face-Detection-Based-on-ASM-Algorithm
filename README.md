@@ -3,8 +3,9 @@
 # Project Schedule
 - [x] Choose a C++ software library named Stasm
 - [x] Install OpenCV on Mac
-- [ ] Install OpenCV on Windows
-- [ ] Detecting cats in images with OpenCV (Link 12)
+- [x] Install OpenCV on Windows
+- [x] Detecting cats in images with OpenCV (Link 12)
+- [ ] Undecided...
 
 
 # For Reference
