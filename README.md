@@ -5,7 +5,7 @@
 - [x] Install OpenCV on Mac
 - [x] Install OpenCV on Windows
 - [x] Detecting cats in images with OpenCV (Link 12)
-- [ ] Undecided...
+- [ ] Start learning something about the foundation of Machine Learning
 
 
 # For Reference
