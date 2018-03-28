@@ -5,7 +5,8 @@
 - [x] Install OpenCV on Mac
 - [x] Install OpenCV on Windows
 - [x] Detecting cats in images with OpenCV (Link 12)
-- [ ] Start learning something about the foundation of Machine Learning
+- [ ] ~~Start learning something about the foundation of Machine Learning~~
+- [ ] Try to be familiar with the call of the library named Stasm.
 
 
 # For Reference
