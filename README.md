@@ -28,8 +28,8 @@
 10. [Install OpenCV 3 on macOS with Homebrew (the easy way)](https://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/)
 11. [Install OpenCV-Python in Windows](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html)
 12. [Detecting cats in images with OpenCV](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/)
-13. [Manual for training new models](./Manual for training new models.pdf)
-14. [Stasm4 User Manual](./Stasm4 User Manual.pdf)
+13. [Manual for training new models](./Manual_for_training_new_models.pdf)
+14. [Stasm4 User Manual](./Stasm4_User_Manual.pdf)
 
 
 
