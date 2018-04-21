@@ -3,6 +3,7 @@
 1. Register an account of GitHub.
 2. Try to learn the skills of Git by practice with the [tutorial](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000).
 3. Click the button "Watch" to watch this repository and by doing this you can receive the notice of changes in time.
+4. Recommend you this article named "[How To Ask Questions The Smart Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)"。
 
 
 # Project Schedule
