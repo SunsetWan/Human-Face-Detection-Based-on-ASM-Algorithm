@@ -12,7 +12,8 @@
 - [x] Install OpenCV on Windows
 - [x] Detecting cats in images with OpenCV (Link 12)
 - [ ] ~~Start learning something about the foundation of Machine Learning~~
-- [ ] Try to be familiar with the call of the library named Stasm.
+- [ ] ~~Try to be familiar with the call of the library named Stasm.~~
+- [ ] Start to read the [Introduction to C++ and OpenCV ](./Introduction_to_c++_and_opencv.pdf) and to update the old code in Stasm which is written under the OpenCV 2.0 (For the moment, it's really troublesome.)
 
 
 # For Reference
@@ -37,6 +38,7 @@
 12. [Detecting cats in images with OpenCV](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/)
 13. [Manual for training new models](./Manual_for_training_new_models.pdf)
 14. [Stasm4 User Manual](./Stasm4_User_Manual.pdf)
+15. [Introduction to C++ and OpenCV ](./Introduction_to_c++_and_opencv.pdf)
 
 
 
