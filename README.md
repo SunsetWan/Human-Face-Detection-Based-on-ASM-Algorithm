@@ -8,13 +8,12 @@
 
 # Project Schedule
 - [x] Choose a C++ software library named Stasm
-- [x] Install OpenCV on Mac
-- [x] Install OpenCV on Windows
+- [x] ~~Install OpenCV on Mac~~ (The latest version of OpenCv isn't required)
+- [x] ~~Install OpenCV on Windows~~ (The latest version of OpenCv isn't required)
 - [x] Detecting cats in images with OpenCV (Link 12)
 - [ ] ~~Start learning something about the foundation of Machine Learning~~
 - [ ] ~~Try to be familiar with the call of the library named Stasm.~~
-- [ ] Start to read the [Introduction to C++ and OpenCV ](./Introduction_to_c++_and_opencv.pdf) and to update the old code in Stasm which is written under the OpenCV 2.0 (For the moment, it's really troublesome.)
-
+- [ ] Start to read the [Introduction to C++ and OpenCV ](./Introduction_to_c++_and_opencv.pdf) and to install OpenCV 2.0 on laptops
 
 # For Reference
 1. [人脸特征点定位——ASM和AAM算法](http://blog.sina.com.cn/s/blog_6138c5b80101k8w3.html)    
