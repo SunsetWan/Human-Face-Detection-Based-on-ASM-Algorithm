@@ -15,6 +15,8 @@
 - [ ] ~~Try to be familiar with the call of the library named Stasm.~~
 - [ ] Start to read the [Introduction to C++ and OpenCV ](./Introduction_to_c++_and_opencv.pdf) and to install OpenCV 2.0 on laptops
 
+**IMPORTANT ISSUE**: Because of engaging in national post-graduate entrance examination, I have had to call a halt to this project. Thanks. I appreciate your understanding.
+
 # For Reference
 1. [人脸特征点定位——ASM和AAM算法](http://blog.sina.com.cn/s/blog_6138c5b80101k8w3.html)    
 
